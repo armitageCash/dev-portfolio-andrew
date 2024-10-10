@@ -1,364 +1,262 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Junior Full Stack Developer",
+    "name": "Andrew Castro",
+    "label": "Full Stack Developer",
     "image": "/me_avatar.jpg",
-    "email": "john.doe@example.com",
-    "phone": "+1 555-555-5555",
-    "url": "https://johndoe.dev",
-    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
+    "email": "aacastro661989@mail.com",
+    "phone": "+57 3025271088",
+    "url": "https://github.com/suiteappdev",
+    "summary": "Desarrollador Full Stack con enfoque en backend, experto en crear soluciones tecnológicas eficientes y escalables. Destaco por mi capacidad de resolución de problemas, trabajo en equipo y adaptabilidad a nuevas tecnologías. Combino habilidades técnicas con una mentalidad analítica para diseñar arquitecturas robustas. Busco un entorno dinámico donde aportar mi experiencia y seguir creciendo profesionalmente.",
     "theme": "default",
     "location": {
-      "address": "",
-      "postalCode": "10001",
-      "city": "Auckland",
-      "countryCode": "NZ",
-      "region": "New Zealand"
+      "address": "Corozal",
+      "postalCode": "705030",
+      "city": "Corozal",
+      "countryCode": "CO",
+      "region": "Colombia"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "john-doe",
-        "url": "https://linkedin.com/in/john-doe"
-      },
-      {
-        "network": "X",
-        "username": "john-doe",
-        "url": "https://x.com/john-doe"
+        "username": "andrew-castro",
+        "url": "https://linkedin.com/in/andrew-castro"
       },
       {
         "network": "GitHub",
-        "username": "johndoe",
-        "url": "https://github.com/johndoe"
+        "username": "armitageCash",
+        "url": "https://github.com/armitageCash"
       }
     ]
   },
   "work": [
     {
-      "name": "Tech Startup",
-      "position": "Junior Web Developer",
+      "name": "Accenture",
+      "position": "Custom Software Engineer",
       "location_type": "On site",
-      "location": "Auckland, New Zealand",
-      "url": "https://techstartup.com",
-      "startDate": "2024-01-01",
-      "endDate": null,
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
+      "location": "Bogotá, Colombia",
+      "url": "https://accenture.com",
+      "startDate": "2022-08-19",
+      "endDate": "2023-09-20",
+      "summary": "Desarrollo de microservicios en Node.js y AWS Lambda, integración con API Gateway y bases de datos RDS en un entorno serverless.",
       "highlights": [
-        "Improved website performance by optimizing code"
-      ],
-      "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
-      ],
-      "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
+        "Desarrollo de microservicios serverless en Node.js con AWS Lambda",
+        "Implementación de OpenAPI para documentar servicios"
       ],
       "skills": [
-        "React",
-        "Tailwind",
-        "GitHub"
+        "Node.js",
+        "Lambda",
+        "Serverless",
+        "AWS API Gateway",
+        "AWS RDS",
+        "OpenAPI"
       ]
     },
     {
-      "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
+      "name": "Rocketfy.co",
+      "position": "Full Stack Developer",
       "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
-      "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
-      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
+      "location": "Medellín, Colombia",
+      "url": "https://rocketfy.co",
+      "startDate": "2021-09-01",
+      "endDate": "2022-07-01",
+      "summary": "Desarrollo de microservicios en Node.js con MongoDB, integraciones con GraphQL y frontend en Angular.",
       "highlights": [
-        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
-      ],
-      "responsibilities": [
-        "Developed and maintained backend services using Python and Django.",
-        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
-        "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
-      ],
-      "achievements": [
-        "Successfully implemented a feature that enhanced user authentication, improving security measures."
+        "Implementación de GraphQL y SocketIO en tiempo real",
+        "Desarrollo de microservicios escalables con TypeScript y MongoDB"
       ],
       "skills": [
-        "Python",
-        "Django",
-        "SQL",
-        "Git"
+        "Node.js",
+        "TypeScript",
+        "GraphQL",
+        "SocketIO",
+        "Angular",
+        "MongoDB"
       ]
     },
     {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
+      "name": "1ecommerce",
+      "position": "Full Stack Developer",
       "location_type": "Remote",
-      "location": "Sydney, Australia",
-      "startDate": "2022-06-01",
-      "endDate": "2022-12-01",
-      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
+      "location": "Bogotá, Colombia",
+      "url": "https://1ecommerce.co",
+      "startDate": "2020-02-01",
+      "endDate": "2021-03-01",
+      "summary": "Desarrollo de microservicios en Node.js con SailsJS, integraciones con GraphQL y SocketIO, utilizando AWS EC2 para la infraestructura.",
       "highlights": [
-        "Completed several client projects successfully"
+        "Desarrollo de APIs y microservicios con SailsJS",
+        "Integración de GraphQL en tiempo real con SocketIO"
       ],
       "skills": [
-        "HTML",
-        "CSS"
+        "Node.js",
+        "SailsJS",
+        "GraphQL",
+        "SocketIO",
+        "AWS EC2",
+        "TypeScript"
       ]
-    }
-  ],
-  "volunteer": [
+    },
     {
-      "organization": "Local Coding Club",
-      "position": "Volunteer",
-      "url": "https://codingclub.com/",
-      "startDate": "2021-01-01",
-      "endDate": "2022-01-01",
-      "summary": "Helped organize coding workshops and mentored new members.",
+      "name": "Daimont SAS",
+      "position": "Full Stack Developer",
+      "location_type": "On site",
+      "location": "Sincelejo, Colombia",
+      "url": "https://daimont.com",
+      "startDate": "2016-02-01",
+      "endDate": "2017-04-01",
+      "summary": "Desarrollo de microservicios en Node.js y Angular 1.4, implementación de soluciones escalables utilizando AWS EC2.",
       "highlights": [
-        "Awarded 'Volunteer of the Month'"
-      ]
+        "Optimización de soluciones cloud con AWS EC2",
+        "Desarrollo de frontend con Angular 1.4"
+      ],
+      "skills": ["Node.js", "Angular 1.4", "AWS EC2", "SocketIO", "TypeScript"]
     }
   ],
   "education": [
     {
-      "institution": "State University",
-      "url": "https://stateuniversity.edu",
-      "area": "Computer Science",
-      "studyType": "Bachelor",
-      "startDate": "2018-09-01",
-      "endDate": "2022-05-01",
-      "score": "3.8",
-      "courses": [
-        "CS101 - Introduction to Computer Science",
-        "CS102 - Data Structures"
-      ]
+      "institution": "SENA",
+      "area": "Desarrollo de Software",
+      "studyType": "Certificado",
+      "startDate": "2008-04-01",
+      "endDate": "2008-12-01"
     },
     {
-      "institution": "Tech Institute",
-      "url": "https://techinstitute.edu",
-      "area": "Software Engineering",
-      "studyType": "Master",
-      "startDate": "2020-09-01",
-      "endDate": "2022-12-01",
-      "score": "3.9",
-      "courses": [
-        "SE201 - Advanced Software Development",
-        "SE202 - Software Architecture and Design"
-      ]
+      "institution": "SENA",
+      "area": "Seguridad en Redes",
+      "studyType": "Certificado",
+      "startDate": "2011-12-01",
+      "endDate": "2011-12-31"
     },
     {
-      "institution": "City College",
-      "url": "https://citycollege.edu",
-      "area": "Information Technology",
-      "studyType": "Associate Degree",
-      "startDate": "2017-01-01",
-      "endDate": "2019-12-01",
-      "score": "3.7",
-      "courses": [
-        "IT101 - Networking Fundamentals",
-        "IT102 - Database Management Systems"
-      ]
+      "institution": "SENA",
+      "area": "CNNA exploration - networking",
+      "studyType": "Certificado",
+      "startDate": "2001-10-01",
+      "endDate": "2001-12-01"
     }
   ],
   "certificates": [
     {
-      "name": "Full Stack Web Development",
-      "date": "2023-05-01",
-      "issuer": "Online University",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
+      "name": "Fundamentos Cloud",
+      "date": "2023-08-01",
+      "issuer": "PluralSight",
+      "url": "https://pluralsight.com/certificates/fundamentos-cloud"
+    },
+    {
+      "name": "AWS Practitioner",
+      "date": "2023-09-01",
+      "issuer": "PluralSight",
+      "url": "https://pluralsight.com/certificates/aws-practitioner"
+    },
+    {
+      "name": "Solution Architect Associate",
+      "date": "2023-09-01",
+      "issuer": "PluralSight",
+      "url": "https://pluralsight.com/certificates/solution-architect"
     }
   ],
   "skills": [
     {
-      "name": "Figma",
-      "level": "Expert",
-      "keywords": [
-        "Design",
-        "UI"
-      ]
+      "name": "React",
+      "level": "Advanced",
+      "keywords": ["JavaScript", "UI", "Web Development"]
     },
     {
-      "name": "Gitlab",
+      "name": "Angular",
       "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
+      "keywords": ["JavaScript", "UI", "Web Development"]
     },
     {
-      "name": "HTML",
-      "level": "Intermediate",
+      "name": "Node.js",
+      "level": "Advanced",
+      "keywords": ["JavaScript", "Backend", "Web Development", "Microservices"]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Advanced",
       "keywords": [
+        "JavaScript Superset",
         "Web Development",
+        "Backend",
         "Frontend"
       ]
     },
     {
-      "name": "CSS",
+      "name": "GraphQL",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Responsive Design"
-      ]
+      "keywords": ["API", "Web Development"]
     },
     {
-      "name": "JavaScript",
+      "name": "SocketIO",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "Fullstack"
-      ]
+      "keywords": ["WebSockets", "Real-time Communication"]
     },
     {
-      "name": "Tailwind",
+      "name": "AWS",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
-      ]
+      "keywords": ["Cloud", "Serverless", "API Gateway", "RDS"]
     },
     {
-      "name": "TypeScript",
+      "name": "MongoDB",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
+      "keywords": ["NoSQL", "Database", "Backend"]
     },
     {
-      "name": "Node",
+      "name": "Express.js",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "JavaScript",
-        "Server"
-      ]
+      "keywords": ["Node.js", "Web Development", "Backend"]
     },
     {
-      "name": "MySQL",
+      "name": "Java Spring Boot",
       "level": "Intermediate",
-      "keywords": [
-        "Databases",
-        "SQL",
-        "Data Storage",
-        "Backend"
-      ]
+      "keywords": ["Java", "Backend", "Web Development"]
     },
     {
-      "name": "Git",
+      "name": "Flutter",
       "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
+      "keywords": ["Flutter", "Web movil", "Native"]
     },
     {
-      "name": "GitHub",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code",
-        "Git"
-      ]
-    },
-    {
-      "name": "Next.js",
-      "level": "Beginner",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
+      "name": "HTML",
+      "level": "Advanced",
+      "keywords": ["html", "css", "vanilla javascript"]
     }
   ],
   "languages": [
     {
       "language": "English",
-      "fluency": "Native speaker"
+      "fluency": "A+"
     },
     {
       "language": "Spanish",
-      "fluency": "Intermediate"
+      "fluency": "A+"
     }
   ],
   "interests": [
     {
       "name": "Technology",
-      "keywords": [
-        "AI",
-        "Blockchain"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Jane Smith",
-      "reference": "Reference…"
+      "keywords": ["AI", "Cloud Computing", "Blockchain"]
     }
   ],
   "projects": [
     {
-      "name": "Personal Portfolio",
+      "name": "Urunner-cli",
       "isActive": false,
       "description": "A personal portfolio website to showcase my projects and skills.",
       "highlights": [
-        "Built with React and Tailwind CSS",
-        "Includes a blog and contact form"
+        "Built with nodejs javascript",
+        "generate scaffold use cases",
+        "scalable code",
+        "DDD"
       ],
-      "url": "https://johndoe.dev",
-      "github": "https://github.com"
+      "url": "https://github.com/armitageCash/urunner-cli",
+      "github": "https://github.com/armitageCash/urunner-cli"
     },
     {
-      "name": "Weather App",
+      "name": "urruner",
       "isActive": true,
-      "description": "A web application that provides weather information for any location.",
-      "highlights": [
-        "Built with JavaScript and OpenWeatherMap API",
-        "Responsive design"
-      ],
-      "url": "https://weatherapp.com"
-    },
-    {
-      "name": "Task Manager",
-      "isActive": true,
-      "description": "A simple task management app to keep track of daily tasks.",
-      "highlights": [
-        "Built with Node.js and MongoDB",
-        "User authentication and CRUD operations"
-      ],
-      "url": "https://taskmanager.com",
-      "github": "https://github.com"
-    },
-    {
-      "name": "E-commerce Site",
-      "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
-      "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
-      ],
-      "url": "https://ecommerce.com"
+      "description": "This library provides a reusable runtime for managing use cases and dependencies in TypeScript projects.",
+      "highlights": ["use cases", "scalable code", "DDD"],
+      "url": "https://github.com/armitageCash/urunner"
     }
   ]
 }
