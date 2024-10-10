@@ -42,6 +42,16 @@
         "Desarrollo de microservicios serverless en Node.js con AWS Lambda",
         "Implementación de OpenAPI para documentar servicios"
       ],
+      "responsibilities": [
+        "Desarrollar nuevos endpoints http usando serverless functions con la especificación OpenAPI.",
+        "Desarrollar y testear nuevos casos de usos con typescript.",
+        "Colaborar con el equipo de frontend para integracion de los servicios."
+      ],
+      "achievements": [
+        "Desarrollé endpoints HTTP con OpenAPI, mejorando la integración con frontend y reduciendo tiempos de despliegue.",
+        "Implementé nuevos casos de uso, aumentando la cobertura de pruebas y reduciendo errores en producción.",
+        "Integré servicios con el equipo de frontend, mejorando la sincronización y acelerando la entrega de funcionalidades."
+      ],
       "skills": [
         "Node.js",
         "Lambda",
@@ -64,9 +74,19 @@
         "Implementación de GraphQL y SocketIO en tiempo real",
         "Desarrollo de microservicios escalables con TypeScript y MongoDB"
       ],
+
+      "responsibilities": [
+        "Desarrollar microservicios en NodeJs & Typescript para importación de catalocos de productos e inventarios de plataformas ecommerce como Woocommerce y Shopify",
+        "Desarrollar plugin Woocommerce - Wordpress para sincronización de ordenes de pedidos en PHP."
+      ],
+      "achievements": [
+        "Implementé soluciones de integración entre sistemas de ecommerce, acelerando la sincronización de datos y mejorando la precisión de inventarios."
+      ],
+
       "skills": [
         "Node.js",
         "TypeScript",
+        "Php",
         "GraphQL",
         "SocketIO",
         "Angular",
@@ -85,6 +105,13 @@
       "highlights": [
         "Desarrollo de APIs y microservicios con SailsJS",
         "Integración de GraphQL en tiempo real con SocketIO"
+      ],
+      "responsibilities": [
+        "Mantener y dar soporte a microservicios",
+        "Desarrollo de microservicio para NodeJs para publicar y sincronizar visibilidad de productos en markeplaces como Mercadolibre y otras entidades."
+      ],
+      "achievements": [
+        "Habilitar la omnicanalidad de productos en diversos canales de venta."
       ],
       "skills": [
         "Node.js",
@@ -108,12 +135,15 @@
         "Optimización de soluciones cloud con AWS EC2",
         "Desarrollo de frontend con Angular 1.4"
       ],
+      "responsibilities": ["Mantener servicio RESTAPI", "Corrección de bugs"],
+      "achievements": [],
       "skills": ["Node.js", "Angular 1.4", "AWS EC2", "SocketIO", "TypeScript"]
     }
   ],
   "education": [
     {
       "institution": "SENA",
+      "url": "https://www.sena.edu.co/es-co/Paginas/default.aspx",
       "area": "Desarrollo de Software",
       "studyType": "Certificado",
       "startDate": "2008-04-01",
@@ -122,6 +152,7 @@
     {
       "institution": "SENA",
       "area": "Seguridad en Redes",
+      "url": "https://www.sena.edu.co/es-co/Paginas/default.aspx",
       "studyType": "Certificado",
       "startDate": "2011-12-01",
       "endDate": "2011-12-31"
@@ -129,6 +160,7 @@
     {
       "institution": "SENA",
       "area": "CNNA exploration - networking",
+      "url": "https://www.sena.edu.co/es-co/Paginas/default.aspx",
       "studyType": "Certificado",
       "startDate": "2001-10-01",
       "endDate": "2001-12-01"
